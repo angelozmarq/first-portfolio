@@ -141,13 +141,14 @@ a img.home{
     /* filter: drop-shadow(8px 8px 10px #AEBDCA); */
     /* box-shadow: 5px 5px 8px #AEBDCA; */
     margin: 0 20% 0 20%;
+    overflow: hidden;
 }
 
 #selficon{
     height: 250px;
     width: 250px;
-    position: absolute;
-    clip-path: circle(45%);
+    /* position: absolute;
+    clip-path: circle(45%); */
     /* filter: grayscale(1); */
     margin: 0 0 0 0px;
     padding: 0;
